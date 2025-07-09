@@ -6,13 +6,18 @@ This project analyzes 200K+ user sessions to uncover insights into user activity
 
 📊 Key Insights
 Churn Rate (30 Days): 77%
+
 Free-to-Paid Conversion: 20%
+
 Paid Users: 2.5x higher session duration than Free users
+
 Feature Adoption: Image generation dominates with 45% of sessions
 
 🛠️ Tools & Technologies
 Python: pandas, matplotlib, seaborn
+
 Jupyter Notebook
+
 (Optional) Power BI for prototype dashboard
 
 
